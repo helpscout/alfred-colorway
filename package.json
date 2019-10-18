@@ -1,0 +1,25 @@
+{
+  "name": "@helpscout/alfred-colorway",
+  "version": "1.0.0",
+  "description": "Find and convert colors from HelpScout Colorway",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "author": {
+    "name": "Juan Pablo Lomeli Diaz",
+    "email": "juanpablo@helpscout.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "alfy": "^0.9.1",
+    "css-color-names": "^1.0.1",
+    "jimp": "^0.8.4",
+    "nearest-color": "^0.4.4"
+  },
+  "devDependencies": {
+    "@helpscout/colorway": "^0.4.1",
+    "prettier": "1.18.2"
+  }
+}

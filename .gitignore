@@ -1,0 +1,4 @@
+node_modules
+icons/generated.json
+icons/*.png
+yarn.lock
