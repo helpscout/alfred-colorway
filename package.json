@@ -17,13 +17,13 @@
     "preuninstall": "alfy-cleanup"
   },
   "dependencies": {
+    "@helpscout/colorway": "^0.4.1",
     "alfy": "^0.9.1",
     "css-color-names": "^1.0.1",
     "jimp": "^0.8.4",
     "nearest-color": "^0.4.4"
   },
   "devDependencies": {
-    "@helpscout/colorway": "^0.4.1",
     "prettier": "1.18.2"
   }
 }
