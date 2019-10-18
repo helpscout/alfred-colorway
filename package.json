@@ -2,15 +2,12 @@
   "name": "@helpscout/alfred-colorway",
   "version": "1.0.0",
   "description": "Find and convert colors from HelpScout Colorway",
-  "author": {
-    "name": "Juan Pablo Lomeli Diaz",
-    "email": "juanpablo@helpscout.com"
-  },
+  "author": "Juan Pablo Lomeli Diaz <juanpablo@helpscout.com>",
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/helpscout/alfred-colorway"
+    "url": "git+https://github.com/helpscout/alfred-colorway.git"
   },
   "scripts": {
     "postinstall": "alfy-init",
@@ -25,5 +22,9 @@
   },
   "devDependencies": {
     "prettier": "1.18.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/helpscout/alfred-colorway/issues"
+  },
+  "homepage": "https://github.com/helpscout/alfred-colorway#readme"
 }
